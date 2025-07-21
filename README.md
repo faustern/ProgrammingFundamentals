@@ -1,2 +1,2 @@
 # ProgrammingFundamentals
-Practicals and Projects for TWA Programming Fundamentals.
+Practicals and Projects for Programming Fundamentals.
